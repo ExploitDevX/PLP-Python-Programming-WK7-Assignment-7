@@ -1,7 +1,3 @@
-# Data Analysis Project
-# Author: [Your Name]
-# Date: [Current Date]
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
